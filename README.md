@@ -6,18 +6,18 @@
 
 ## Содержание
 
-- ### [Backend](/src)
-- ### [Frontend](/web)
-- ### [Отчёты](/reports)
-- ### [Скриншоты](/screenshots)
+- [Backend](/src)
+- [Frontend](/web)
+- [Отчёты](/reports)
+- [Скриншоты](/screenshots)
 
 ## Корпус
 
-- ### [Wikipedia EN](https://drive.google.com/file/d/1D06cLMyQa1TWsWBCU48dVIRiHSCfFfeO/view?usp=sharing)
+- [Wikipedia EN](https://drive.google.com/file/d/1D06cLMyQa1TWsWBCU48dVIRiHSCfFfeO/view?usp=sharing)
 
 ## Курсовой проект
 
-- ### Тема: Поисковые подсказки
+- Тема: Поисковые подсказки
 
 <kbd>![web](/screenshots/web.png)</kbd>
 
