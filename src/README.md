@@ -2,7 +2,7 @@
 
 1. Скачать корпус по [ссылке](https://drive.google.com/file/d/1D06cLMyQa1TWsWBCU48dVIRiHSCfFfeO/view?usp=sharing)
 
-2. Создать директорию `corpus` и извлечь туда содежимое wikipedia.7z
+2. Создать директорию `corpus` и извлечь туда содержимое wikipedia.7z
 
 3. Выполнить в терминале команду
 
