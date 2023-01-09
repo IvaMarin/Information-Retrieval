@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia Search</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}">
+</head>
+
+<body>
+    <h1 style="text-align: center;">Wikipedia</h1>
+    <img style="width: 100px;height: 100px; margin-left: auto; margin-right: auto; margin-bottom: 1.5em; display: block;"
+        src="{{url_for('static', filename='wiki_logo.png')}}">
+
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <form action="search" method="post" autocomplete="off">
+            <div id="autocomplete-wrapper" class="autocomplete-wrapper">
+                <input id="autocomplete-input" name="query" type="search" placeholder="Search">
+                <!-- <ul class="autocomplete-list">
+                    <li>
+                        <button>Title 1</button>
+                    </li>
+                    <li>
+                        <button>Title 2</button>
+                    </li>
+                    <li>
+                        <button>Title 3</button>
+                    </li>
+                </ul> -->
+            </div>
+            <button type="submit" class="btn-submit"><img src="{{url_for('static', filename='search.png')}}"></button>
+        </form>
+    </div>
+
+    <script src="{{url_for('static', filename='autocomplete.js')}}"></script>
+</body>
+
+</html>
