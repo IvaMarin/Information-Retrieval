@@ -9,6 +9,7 @@
 - ### [Backend](/src)
 - ### [Frontend](/web)
 - ### [Отчёты](/reports)
+- ### [Скриншоты](/screenshots)
 
 ## Корпус
 
