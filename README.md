@@ -19,8 +19,10 @@
 
 - Тема: Поисковые подсказки
 
-<kbd>![web](/screenshots/web.png)</kbd>
+<kbd>![web_search](/screenshots/web_search.png)</kbd>
 
-<kbd>![web](/screenshots/web_hints.png)</kbd>
+<kbd>![web_hihts](/screenshots/web_hints.png)</kbd>
 
-<kbd>![web](/screenshots/web_results.png)</kbd>
+<kbd>![web_query](/screenshots/web_query.png)</kbd>
+
+<kbd>![web_results](/screenshots/web_results.png)</kbd>
